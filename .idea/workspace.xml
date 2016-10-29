@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23db7af4-b827-4c01-8d41-3b62b85fe26b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/magnific-popup.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.magnific-popup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.magnific-popup.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/creative.css" afterPath="$PROJECT_DIR$/css/creative.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php;" afterPath="$PROJECT_DIR$/index.php;" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/slim/slim-skeleton/src/routes.php" afterPath="$PROJECT_DIR$/vendor/slim/slim-skeleton/src/routes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/slim/slim-skeleton/templates/login.php" afterPath="$PROJECT_DIR$/vendor/slim/slim-skeleton/templates/login.php" />
     </list>
     <ignored path="postcard.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,11 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/slim/slim-skeleton/src/routes.php">
+      <file leaf-file-name="index.phtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/slim/slim-skeleton/templates/index.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.1923075">
-              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            <state vertical-scroll-proportion="-8.730769">
+              <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -41,81 +42,80 @@
       <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vendor/slim/slim-skeleton/templates/login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.8545455">
-              <caret line="17" column="33" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="33" />
+            <state vertical-scroll-proportion="-0.6219512">
+              <caret line="14" column="34" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="34" />
               <folding>
-                <marker date="1477761004927" expanded="true" signature="1413:10151" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="1499:2652" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="1531:2619" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="1685:2585" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="1734:2001" placeholder="..." />
-                <marker date="1477761004927" expanded="false" signature="1779:1799" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="2011:2271" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="2374:2576" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="2698:5483" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="2718:5457" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="2744:2784" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="2753:2775" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="2826:5449" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="2852:5440" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="2893:5430" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="2997:5419" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="3029:3413" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="3136:3400" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="3170:3386" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="3445:3838" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="3554:3825" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="3588:3811" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="3870:4270" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="3980:4257" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="4014:4243" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="4302:4708" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="4412:4695" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="4446:4681" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="4740:5153" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="4857:5140" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="4891:5126" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="5186:5399" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="5535:6226" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="5561:6215" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="5600:6208" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="5654:5749" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="5791:5982" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="5799:5956" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="6023:6199" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="6080:6190" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="6293:7341" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="6318:7322" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="6338:7313" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="6392:6480" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="6546:6914" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="6556:6904" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="6978:7303" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="7000:7255" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="7382:8943" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="7407:8932" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="7427:8468" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="7481:7563" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="7590:7853" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="7661:7782" placeholder="..." />
-                <marker date="1477761004927" expanded="false" signature="7748:7765" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="7881:8152" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="7953:8067" placeholder="..." />
-                <marker date="1477761004927" expanded="false" signature="8040:8057" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="8179:8459" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="8259:8388" placeholder="..." />
-                <marker date="1477761004927" expanded="false" signature="8356:8373" placeholder="..." />
-                <marker date="1477761004927" expanded="false" signature="8514:8530" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="8531:8923" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="8669:8914" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="9005:9638" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="9030:9627" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="9050:9528" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="9104:9246" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="9184:9236" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="9300:9383" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="9421:9519" placeholder="..." />
-                <marker date="1477761004927" expanded="true" signature="9548:9619" placeholder="..." />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1477765073362" expanded="true" signature="1353:10219" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="2575:2580" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="2761:2768" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="2761:5202" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="2761:5524" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="2933:5202" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="2992:5202" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="3406:3417" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="3840:3851" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="4281:4292" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="4728:4739" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="5182:5193" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="6253:6260" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="6253:6264" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="6253:6278" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="6253:6289" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="6356:7404" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="6381:7385" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="6401:7376" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="6455:6543" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="6609:6977" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="6619:6967" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="7041:7366" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="7063:7318" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="7445:9006" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="7470:8995" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="7490:8531" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="7544:7626" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="7653:7916" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="7724:7845" placeholder="..." />
+                <marker date="1477765073362" expanded="false" signature="7811:7828" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="7944:8215" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="8016:8130" placeholder="..." />
+                <marker date="1477765073362" expanded="false" signature="8103:8120" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="8242:8522" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="8322:8451" placeholder="..." />
+                <marker date="1477765073362" expanded="false" signature="8419:8436" placeholder="..." />
+                <marker date="1477765073362" expanded="false" signature="8577:8593" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="8594:8986" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="8732:8977" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="9068:9701" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="9093:9690" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="9113:9591" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="9167:9309" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="9247:9299" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="9363:9446" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="9484:9582" placeholder="..." />
+                <marker date="1477765073362" expanded="true" signature="9611:9682" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/slim/slim-skeleton/src/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.230769">
+              <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vendor/slim/slim-skeleton/templates/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="12.18868">
+              <caret line="266" column="0" selection-start-line="266" selection-start-column="0" selection-end-line="266" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -124,48 +124,48 @@
       <file leaf-file-name="creative.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/creative.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="96.70909">
-              <caret line="142" column="17" selection-start-line="142" selection-start-column="17" selection-end-line="142" selection-end-column="17" />
+            <state vertical-scroll-proportion="-2.0727272">
+              <caret line="132" column="36" selection-start-line="132" selection-start-column="32" selection-end-line="132" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/main.css">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7250674">
-              <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+            <state vertical-scroll-proportion="-11.115385">
+              <caret line="22" column="52" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="52" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <file leaf-file-name="jquery.magnific-popup.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/jquery.magnific-popup.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="3.2692308">
+            <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PhpRendererTest.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/slim/php-view/tests/PhpRendererTest.php">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.076923">
-              <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+            <state vertical-scroll-proportion="-10.346154">
+              <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PhpRenderer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/slim/php-view/src/PhpRenderer.php">
+      <file leaf-file-name="settings.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/slim/slim-skeleton/src/settings.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.1153846">
-              <caret line="59" column="44" selection-start-line="59" selection-start-column="27" selection-end-line="59" selection-end-column="44" />
+            <state vertical-scroll-proportion="-5.230769">
+              <caret line="8" column="55" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -175,27 +175,7 @@
         <entry file="file://$PROJECT_DIR$/.htaccess">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="69" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/slim/slim-skeleton/public/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.1923075">
-              <caret line="18" column="19" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="App.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/slim/slim/Slim/App.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.884615">
-              <caret line="64" column="14" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
+              <caret line="9" column="57" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -212,15 +192,17 @@
         <option value="$PROJECT_DIR$/vendor/slim/slim/example/index.php" />
         <option value="$PROJECT_DIR$/vendor/nikic/fast-route/test/HackTypechecker/fixtures/all_options.php" />
         <option value="$PROJECT_DIR$/vendor/slim/slim-skeleton/templates/index.phtml" />
-        <option value="$PROJECT_DIR$/vendor/slim/slim-skeleton/src/routes.php" />
         <option value="$PROJECT_DIR$/vendor/slim/slim-skeleton/templates/alex.php" />
         <option value="$PROJECT_DIR$/vendor/slim/slim-skeleton/public/index.php" />
         <option value="$PROJECT_DIR$/vendor/slim/slim/Slim/App.php" />
         <option value="$PROJECT_DIR$/vendor/slim/slim-skeleton/src/settings.php" />
         <option value="$PROJECT_DIR$/.htaccess" />
-        <option value="$PROJECT_DIR$/vendor/slim/slim-skeleton/templates/login.php" />
         <option value="$PROJECT_DIR$/css/creative.css" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/vendor/slim/slim-skeleton/templates/login.php" />
+        <option value="$PROJECT_DIR$/vendor/slim/slim-skeleton/src/routes.php" />
+        <option value="$PROJECT_DIR$/vendor/slim/slim-skeleton/templates/index.php" />
       </list>
     </option>
   </component>
@@ -234,8 +216,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="69" />
-    <option name="y" value="12" />
+    <option name="x" value="-16" />
+    <option name="y" value="4" />
     <option name="width" value="1370" />
     <option name="height" value="744" />
   </component>
@@ -363,12 +345,22 @@
               <option name="myItemId" value="slim" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="slim-skeleton" />
+              <option name="myItemId" value="postcard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grusse" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magnific-popup" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -386,15 +378,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="slim" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="slim-skeleton" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
+              <option name="myItemId" value="jquery" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -412,201 +396,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="slim" />
+              <option name="myItemId" value="font-awesome" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="slim" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="postcard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grusse" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="slim" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="slim" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Slim" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="postcard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grusse" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="slim" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="slim" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Slim" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Interfaces" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="postcard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grusse" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="slim" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="slim" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Slim" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Http" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="postcard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grusse" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="slim" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="slim" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Slim" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Handlers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="postcard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grusse" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="slim" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php-view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="postcard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grusse" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="slim" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php-view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="postcard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grusse" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="slim" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php-view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="scss" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -628,52 +422,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="postcard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grusse" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="postcard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grusse" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="postcard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grusse" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -681,6 +429,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="D:\Program Files\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/index.php" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/index.php" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -689,6 +439,8 @@
       <recent name="F:\grusse" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\grusse\css" />
+      <recent name="F:\grusse\js" />
       <recent name="F:\grusse\vendor\slim\slim-skeleton\templates\css" />
     </key>
   </component>
@@ -749,7 +501,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="69" y="12" width="1370" height="744" extended-state="0" />
+    <frame x="-16" y="4" width="1370" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963072" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -823,7 +575,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
-            <element signature="e#6#89#0#PHP" expanded="true" />
+            <element signature="e#6#89#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1044,20 +796,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/slim/slim-skeleton/templates/index.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.769231">
-          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/slim/slim-skeleton/templates/alex.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.576923">
           <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
           <folding>
-            <element signature="e#6#89#0#PHP" expanded="true" />
+            <element signature="e#6#89#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1086,14 +830,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/slim/slim-skeleton/src/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.1923075">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/slim/php-view/tests/PhpRendererTest.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.076923">
@@ -1110,26 +846,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/slim/slim-skeleton/src/settings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5040431">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="2" selection-end-line="14" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="3.2692308">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="69" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
           <folding />
         </state>
       </provider>
@@ -1142,100 +862,143 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/slim/slim-skeleton/templates/login.php">
+    <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.8545455">
-          <caret line="17" column="33" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="33" />
-          <folding>
-            <marker date="1477761004927" expanded="true" signature="1413:10151" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="1499:2652" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="1531:2619" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="1685:2585" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="1734:2001" placeholder="..." />
-            <marker date="1477761004927" expanded="false" signature="1779:1799" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="2011:2271" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="2374:2576" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="2698:5483" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="2718:5457" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="2744:2784" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="2753:2775" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="2826:5449" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="2852:5440" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="2893:5430" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="2997:5419" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="3029:3413" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="3136:3400" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="3170:3386" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="3445:3838" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="3554:3825" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="3588:3811" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="3870:4270" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="3980:4257" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="4014:4243" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="4302:4708" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="4412:4695" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="4446:4681" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="4740:5153" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="4857:5140" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="4891:5126" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="5186:5399" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="5535:6226" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="5561:6215" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="5600:6208" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="5654:5749" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="5791:5982" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="5799:5956" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="6023:6199" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="6080:6190" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="6293:7341" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="6318:7322" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="6338:7313" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="6392:6480" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="6546:6914" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="6556:6904" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="6978:7303" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="7000:7255" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="7382:8943" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="7407:8932" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="7427:8468" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="7481:7563" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="7590:7853" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="7661:7782" placeholder="..." />
-            <marker date="1477761004927" expanded="false" signature="7748:7765" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="7881:8152" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="7953:8067" placeholder="..." />
-            <marker date="1477761004927" expanded="false" signature="8040:8057" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="8179:8459" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="8259:8388" placeholder="..." />
-            <marker date="1477761004927" expanded="false" signature="8356:8373" placeholder="..." />
-            <marker date="1477761004927" expanded="false" signature="8514:8530" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="8531:8923" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="8669:8914" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="9005:9638" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="9030:9627" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="9050:9528" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="9104:9246" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="9184:9236" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="9300:9383" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="9421:9519" placeholder="..." />
-            <marker date="1477761004927" expanded="true" signature="9548:9619" placeholder="..." />
-          </folding>
+        <state vertical-scroll-proportion="-10.346154">
+          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/creative.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="96.70909">
-          <caret line="142" column="17" selection-start-line="142" selection-start-column="17" selection-end-line="142" selection-end-column="17" />
+        <state vertical-scroll-proportion="-2.0727272">
+          <caret line="132" column="36" selection-start-line="132" selection-start-column="32" selection-end-line="132" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
+    <entry file="file://$PROJECT_DIR$/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7250674">
-          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="57" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="57" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/slim/slim-skeleton/templates/index.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.730769">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/slim/slim-skeleton/src/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.230769">
+          <caret line="8" column="55" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.115385">
+          <caret line="22" column="52" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/magnific-popup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.magnific-popup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/slim/slim-skeleton/templates/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6219512">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="34" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1477765073362" expanded="true" signature="1353:10219" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="2575:2580" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="2761:2768" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="2761:5202" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="2761:5524" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="2933:5202" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="2992:5202" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="3406:3417" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="3840:3851" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="4281:4292" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="4728:4739" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="5182:5193" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="6253:6260" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="6253:6264" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="6253:6278" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="6253:6289" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="6356:7404" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="6381:7385" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="6401:7376" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="6455:6543" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="6609:6977" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="6619:6967" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="7041:7366" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="7063:7318" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="7445:9006" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="7470:8995" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="7490:8531" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="7544:7626" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="7653:7916" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="7724:7845" placeholder="..." />
+            <marker date="1477765073362" expanded="false" signature="7811:7828" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="7944:8215" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="8016:8130" placeholder="..." />
+            <marker date="1477765073362" expanded="false" signature="8103:8120" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="8242:8522" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="8322:8451" placeholder="..." />
+            <marker date="1477765073362" expanded="false" signature="8419:8436" placeholder="..." />
+            <marker date="1477765073362" expanded="false" signature="8577:8593" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="8594:8986" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="8732:8977" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="9068:9701" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="9093:9690" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="9113:9591" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="9167:9309" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="9247:9299" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="9363:9446" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="9484:9582" placeholder="..." />
+            <marker date="1477765073362" expanded="true" signature="9611:9682" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/slim/slim-skeleton/src/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.230769">
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/slim/slim-skeleton/templates/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="12.18868">
+          <caret line="266" column="0" selection-start-line="266" selection-start-column="0" selection-end-line="266" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

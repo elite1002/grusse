@@ -6,7 +6,7 @@ $app->get('/', function ($request, $response, $args) {
     $this->logger->info("Slim-Skeleton '/' route");
 
     // Render index view
-    return $this->renderer->render($response, 'login.php', $args);
+    return $this->renderer->render($response, 'index.php', $args);
 });
 
 $app->get('/alex[/{hjk}]', function ($request, $response, $args) {
