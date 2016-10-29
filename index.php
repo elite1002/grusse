@@ -29,7 +29,7 @@
 </head>
 
 
-<body id="page-top">
+<body id="page-top"> 
 	<!--navbar -->
 	<nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
         <div class="container-fluid">
@@ -166,12 +166,12 @@
 <section class="bg-dark" id="popular_quotes">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-8 col-lg-offset-2 text-center">
+			<div class="col-lg-8 col-lg-offset-2 text-center"> 
 				<h1 class="section-heading">Quotes of the day</h1>
 				<hr class="dark">
 			</div>
 			<!--Green one-->
-			<div class="col-lg-6 little_transparent ">
+			<div class="col-lg-6 little_transparent "> 
 
 				<p>
 					"I grabbed onto the wall to support my weight and moved my cast to one side while my father rolled a football to my left leg. I am naturally right-footed, so this was my weaker foot. After a long day in the mine, he would stand there for hours rolling me the ball so I could pass it back to him.”
@@ -199,8 +199,8 @@
 			</div>
 
 			<div class="col-lg-5">
-				<a href="https://www.instagram.com/sr4oficial/" class="thumbnail">
-					<img src="img/ramos.jpg" alt="messi" class="img-responsive img-rounded" style="max-height: 280px">
+				<a href="https://www.instagram.com/sr4oficial/" class="thumbnail"> 
+					<img src="img/ramos.jpg" alt="messi" class="img-responsive img-rounded" style="max-height: 280px">     		
 				</a>
 				<button class="btn btn-danger btn-block"> Work </button>
 			</div>
@@ -214,7 +214,7 @@
 
 			<div class="col-lg-4">
 				<a href="https://www.instagram.com/ikercasillasoficial/" class="thumbnail">
-					<img src="img/casillas.jpg" alt="Love you iker" class="img-responsive img-rounded" style="max-height: 280px">
+					<img src="img/casillas.jpg" alt="Love you iker" class="img-responsive img-rounded" style="max-height: 280px">	  		
 				</a>
 				<button class="btn btn-block btn-danger"> Life </button>
 			</div>
@@ -239,7 +239,7 @@
 <section class="bg-primary" id="contact">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-8 col-lg-offset-2 text-center">
+			<div class="col-lg-8 col-lg-offset-2 text-center"> 
 				<h1 class="section-heading"> About Us </h1>
 				<hr class="light">
 				<p>
