@@ -1,5 +1,6 @@
 {
     "require": {
-        "slim/slim": "^3.5"
+        "ktamas77/firebase-php": "dev-master",
+        "slim/slim-skeleton": "^3.1"
     }
 }

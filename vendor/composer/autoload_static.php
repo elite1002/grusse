@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInit0d7c48028d691fc47dc884fa1b05537c
+class ComposerStaticInit4262afdea4c5773b5080e858fa120934
 {
     public static $files = array (
         '253c157292f75eb38082b5acb06f3f01' => __DIR__ . '/..' . '/nikic/fast-route/src/functions.php',
@@ -13,11 +13,17 @@ class ComposerStaticInit0d7c48028d691fc47dc884fa1b05537c
     public static $prefixLengthsPsr4 = array (
         'S' => 
         array (
+            'Slim\\Views\\' => 11,
             'Slim\\' => 5,
         ),
         'P' => 
         array (
+            'Psr\\Log\\' => 8,
             'Psr\\Http\\Message\\' => 17,
+        ),
+        'M' => 
+        array (
+            'Monolog\\' => 8,
         ),
         'I' => 
         array (
@@ -30,13 +36,25 @@ class ComposerStaticInit0d7c48028d691fc47dc884fa1b05537c
     );
 
     public static $prefixDirsPsr4 = array (
+        'Slim\\Views\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/slim/php-view/src',
+        ),
         'Slim\\' => 
         array (
             0 => __DIR__ . '/..' . '/slim/slim/Slim',
         ),
+        'Psr\\Log\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/psr/log/Psr/Log',
+        ),
         'Psr\\Http\\Message\\' => 
         array (
             0 => __DIR__ . '/..' . '/psr/http-message/src',
+        ),
+        'Monolog\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/monolog/monolog/src/Monolog',
         ),
         'Interop\\Container\\' => 
         array (
@@ -58,12 +76,20 @@ class ComposerStaticInit0d7c48028d691fc47dc884fa1b05537c
         ),
     );
 
+    public static $classMap = array (
+        'Firebase\\Error' => __DIR__ . '/..' . '/ktamas77/firebase-php/src/firebaseStub.php',
+        'Firebase\\FirebaseInterface' => __DIR__ . '/..' . '/ktamas77/firebase-php/src/firebaseInterface.php',
+        'Firebase\\FirebaseLib' => __DIR__ . '/..' . '/ktamas77/firebase-php/src/firebaseLib.php',
+        'Firebase\\FirebaseStub' => __DIR__ . '/..' . '/ktamas77/firebase-php/src/firebaseStub.php',
+    );
+
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInit0d7c48028d691fc47dc884fa1b05537c::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInit0d7c48028d691fc47dc884fa1b05537c::$prefixDirsPsr4;
-            $loader->prefixesPsr0 = ComposerStaticInit0d7c48028d691fc47dc884fa1b05537c::$prefixesPsr0;
+            $loader->prefixLengthsPsr4 = ComposerStaticInit4262afdea4c5773b5080e858fa120934::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInit4262afdea4c5773b5080e858fa120934::$prefixDirsPsr4;
+            $loader->prefixesPsr0 = ComposerStaticInit4262afdea4c5773b5080e858fa120934::$prefixesPsr0;
+            $loader->classMap = ComposerStaticInit4262afdea4c5773b5080e858fa120934::$classMap;
 
         }, null, ClassLoader::class);
     }
