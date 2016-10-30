@@ -32,98 +32,104 @@
 <body id="page-top"> 
 	<!--navbar -->
 	<nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
-        <div class="container-fluid">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
-                </button>
-                <a style = "margin-right: 20px; " class="navbar-brand page-scroll" href="#page-top"> Grusse </a>
-            </div>
-
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav">
-                    <li><a class="page-scroll" href="#news"> News</a></li>
-                    <li><a class="page-scroll" href="#categories">Categories</a></li>
-                    <li><a class="page-scroll" href="#contact">Contact</a></li>
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container-fluid -->
-    </nav>
-
-	<header >
-		<div class="row">
-			<div class="col-lg-6">
-				<div class="row main">
-					<div class="main-login main-center">
-						<h2> Look at me </h2>
-					</div>
-				</div>
+		<div class="container-fluid">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+					<span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+				</button>
+				<a style = "margin-right: 20px; " class="navbar-brand page-scroll" href="#page-top"> Grusse </a>
 			</div>
 
-			<div class="col-lg-offset-1 col-lg-4">
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a class="page-scroll" href="#more"> Learn More</a></li>
+					<li><a class="page-scroll" href="#cards"> Cards </a></li>
+					<li><a class="page-scroll" href="#contact">Contact</a></li>
+				</ul>
+			</div>
+			<!-- /.navbar-collapse -->
+		</div>
+		<!-- /.container-fluid -->
+	</nav>
+
+	<header >
+		<div class="row littl">
+			<div class="col-lg-8">	
+				<div class="row main">
+					<br>
+					<br>
+
+					<h1 style="color: #BD3403; font-size:85px;"> Grüße  </h1>
+					<h2 style="color: black;">
+						Greeting from Everywhere.
+					</h2>	
+					
+				</div>				
+
+			</div>
+
+			<div class="col-lg-4">
 				<div class="row main">
 					<div class="main-login main-center">
-						<h1 class="title">Join now!</h1>
+						<h1 class="title" style="color: black">Join now!</h1>
 						<hr>
 						<form class="form-horizontal" method="post" action="#">
 
 							<div class="form-group">
-								<label for="name" class="cols-sm-2 control-label">Your Name</label>
+								
 								<div class="cols-sm-10">
 									<div class="input-group">
 										<span class="input-group-addon"><i class="fa fa-user fa" aria-hidden="true"></i></span>
-										<input type="text" class="form-control" name="name" id="name"  placeholder="Enter your Name"/>
+										<input type="text" class="form-control" name="name" id="name"  placeholder="Full Name"/>
 									</div>
 								</div>
 							</div>
 
 							<div class="form-group">
-								<label for="email" class="cols-sm-2 control-label">Your Email</label>
+								
 								<div class="cols-sm-10">
 									<div class="input-group">
 										<span class="input-group-addon"><i class="fa fa-envelope fa" aria-hidden="true"></i></span>
-										<input type="text" class="form-control" name="email" id="email"  placeholder="Enter your Email"/>
+										<input type="text" class="form-control" name="email" id="email"  placeholder="Email"/>
 									</div>
 								</div>
 							</div>
 
 							<div class="form-group">
-								<label for="username" class="cols-sm-2 control-label">Username</label>
+								
 								<div class="cols-sm-10">
 									<div class="input-group">
 										<span class="input-group-addon"><i class="fa fa-users fa" aria-hidden="true"></i></span>
-										<input type="text" class="form-control" name="username" id="username"  placeholder="Enter your Username"/>
+										<input type="text" class="form-control" name="username" id="username"  placeholder="Username"/>
 									</div>
 								</div>
 							</div>
 
 							<div class="form-group">
-								<label for="password" class="cols-sm-2 control-label">Password</label>
+
 								<div class="cols-sm-10">
 									<div class="input-group">
 										<span class="input-group-addon"><i class="fa fa-lock fa-lg" aria-hidden="true"></i></span>
-										<input type="password" class="form-control" name="password" id="password"  placeholder="Enter your Password"/>
+										<input type="password" class="form-control" name="password" id="password"  placeholder="Password"/>
 									</div>
 								</div>
 							</div>
 
 							<div class="form-group">
-								<label for="confirm" class="cols-sm-2 control-label">Confirm Password</label>
+								
 								<div class="cols-sm-10">
 									<div class="input-group">
 										<span class="input-group-addon"><i class="fa fa-lock fa-lg" aria-hidden="true"></i></span>
-										<input type="password" class="form-control" name="confirm" id="confirm"  placeholder="Confirm your Password"/>
+										<input type="password" class="form-control" name="confirm" id="confirm"  placeholder="Confirm Password"/>
 									</div>
 								</div>
 							</div>
 
 							<div class="form-group ">
-								<button type="button" class="btn btn-primary btn-lg btn-block login-button">Register</button>
-								<button type="button" class="btn btn-mine btn-lg btn-block login-button">Log In</button>
+								<button type="button" class="btn btn-primary  btn-block login-button">Register</button>
+								<button type="button" class="btn btn-mine btn-block login-button">Log In</button>
 							</div>
 
 						</form>
@@ -137,24 +143,29 @@
 	</header>
 
 	<!--紅色框框-->
-	<section class="bg-primary" id="news">
+	<section class="bg-primary" id="more">
 		<div class ="container">
 			<div class="row little_transparent">
 				<div class="col-lg-8 col-lg-offset-2 text-center">
-					<h1 class="section-heading">Do you like programming?</h1>
+					<h1 class="section-heading">What is Grüße?</h1>
 					<hr class="light">
 				</div>
 				<div class="col-lg-8 col-lg-offset-2">
 					<p>
-						"Everyone in this country should learn how to program a computer...<br>Because it teaches you how to think."
-						<footer> Steve Jobs</footer>
+						'Grüße' means 'Regards' in Germany.<br><br>
+						Modern poeple seldom use this word because we no longer use letters to communicate. <br>
+						We are too busy to take up a pen.<br>
+						We somehow forget how it feels to receive a postcard from a friend. <br><br>
+						Technology doesn't mean we have to give up something old,<br>
+						We preserve what we want,<br><br>
+
+						From here, You can share your love to others, <br>
+						And get others' support when needed.
+						
+						<footer> Regards<br>
+						- A old man once told me</footer>
 					</p>
 				</blockquote>
-			</div>
-			<div class="col-lg-8 col-lg-offset-2">
-				<div class="embed-responsive embed-responsive-16by9">
-					<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/nKIu9yen5nc"></iframe>
-				</div>
 			</div>
 
 		</div>
@@ -163,20 +174,17 @@
 
 
 <!--two sayings-->
-<section class="bg-dark" id="popular_quotes">
+<section class="bg-dark thumbnails" id="cards">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-8 col-lg-offset-2 text-center"> 
-				<h1 class="section-heading">Quotes of the day</h1>
+				<h1 class="section-heading">Postcards of the day</h1>
 				<hr class="dark">
 			</div>
 			<!--Green one-->
 			<div class="col-lg-6 little_transparent "> 
 
-				<p>
-					"I grabbed onto the wall to support my weight and moved my cast to one side while my father rolled a football to my left leg. I am naturally right-footed, so this was my weaker foot. After a long day in the mine, he would stand there for hours rolling me the ball so I could pass it back to him.”
-					<footer> - David Villa</footer>
-				</p>
+				<img class="img-thumbnail" src="/img/BGI_NY.jpg">
 			</div>
 			<!--Blue one-->
 			<div class="col-lg-6 little_transparent" >
@@ -189,62 +197,22 @@
 	</div>
 </section>
 
-<!-- 3X圖片 -->
-<section id="categories">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-8 col-lg-offset-2 text-center">
-				<h1 class="section-heading"> Categories </h1>
-				<hr class="dark">
-			</div>
-
-			<div class="col-lg-5">
-				<a href="https://www.instagram.com/sr4oficial/" class="thumbnail"> 
-					<img src="img/ramos.jpg" alt="messi" class="img-responsive img-rounded" style="max-height: 280px">     		
-				</a>
-				<button class="btn btn-danger btn-block"> Work </button>
-			</div>
-
-			<div class=" col-lg-3">
-				<a href="https://www.instagram.com/davidvilla/"  class="thumbnail">
-					<img src="img/villa.jpg" alt="Villa!" class="img-responsive img-rounded" style="max-height: 280px">
-				</a>
-				<button type="button" class="btn btn-danger btn-block"> Love </button>
-			</div>
-
-			<div class="col-lg-4">
-				<a href="https://www.instagram.com/ikercasillasoficial/" class="thumbnail">
-					<img src="img/casillas.jpg" alt="Love you iker" class="img-responsive img-rounded" style="max-height: 280px">	  		
-				</a>
-				<button class="btn btn-block btn-danger"> Life </button>
-			</div>
-		</div>
-		<div class="dropup btn-defaul btn" style="margin-top: 10px">
-			<button  class="dropdown-toggle btn btn-default " data-toggle="dropdown"> SEE MORE </button>
-			<ul class="dropdown-menu" role="menu">
-				<li><a class="btn" href="#">Life</a></li>
-				<li><a class="btn" href="#">Love</a></li>
-				<li><a class="btn" href="#">Study</a></li>
-				<!--Divider-->
-				<li class="divider"></li>
-				<li><a class="btn" href="#">Others</a></li>
-			</ul>
-		</div>
-
-	</div>
-</section>
-
 
 <!--Contact US-->
 <section class="bg-primary" id="contact">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-8 col-lg-offset-2 text-center"> 
-				<h1 class="section-heading"> About Us </h1>
+				<h1 class="section-heading"> Who are we? </h1>
 				<hr class="light">
 				<p>
-					Grusse<br>
-					Web Developement.<br>
+					Grusse.com<br>
+					<br>
+					Taiwan x Singapore.<br>
+					<br>
+					North Carolina State University<br>
+					<br>
+					#HackNC
 				</p>
 			</div>
 			<div class="col-lg-4 col-lg-offset-2 text-center">
@@ -264,15 +232,12 @@
 
 <!-- jQuery -->
 <script src="/vendor/jquery/jquery.min.js"></script>
-
 <!-- Bootstrap Core JavaScript -->
 <script src="/vendor/bootstrap/js/bootstrap.min.js"></script>
-
 <!-- Plugin JavaScript -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
 <script src="/vendor/scrollreveal/scrollreveal.min.js"></script>
 <script src="/vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
-
 <!-- Theme JavaScript -->
 <script src="/js/creative.min.js"></script>
 </body>
