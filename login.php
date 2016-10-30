@@ -26,6 +26,19 @@
 	<link rel="stylesheet" type="text/css" href="/css/main.css">
 	<!-- Theme CSS -->
 	<link rel="stylesheet" href="/css/creative.css" >
+	
+	<style type="text/css"> 	
+	section {
+    min-height: 100%;
+    background-size: cover;
+    background-image:url('/img/cards2epic.jpg') ;
+    }
+
+    a:hover, a:focus{
+    	color: black;
+    }
+
+    </style>
 </head>
 
 <body> 
@@ -39,23 +52,25 @@
 		<!-- /.container-fluid -->
 	</nav>
 
-	<section >
+	<section>
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-8 col-lg-offset-2 text-center ">
-					<h1>Log in to <span style="color: #BD3043;">Grusse</span></h1>
+					<h1 style="margin-top: 35px">Log in to <span style="color: #BD3043;">Grusse</span></h1>
 					<div class="form-group col-lg-8 col-lg-offset-2 ">
 						<form class="form-horizontal form-primary" method="post" action="#">						
-							<div style="margin-top: 50px" class="input-group">
+							<div style="margin-top: 45px" class="input-group">
 								<span class="input-group-addon"><i class="fa fa-users fa" aria-hidden="true"></i></span>
 								<input type="text" class="form-control" name="name" id="username"  placeholder="Username"/>
 							</div>
 							<div style="margin-top: 30px" class="input-group">
 								<span class="input-group-addon"><i class="fa fa-lock fa-lg" aria-hidden="true"></i></span>
-								<input type="text" class="form-control" name="email" id="password"  placeholder="Password"/>
+								<input type="password" class="form-control" name="email" id="password"  placeholder="Password"/>
 							</div>
-							<div style="margin-top: 20px">
+							<div style="margin-top: 40px">
 								<button type="button" type="submit" class="btn btn-primary ">Sign in</button><br>
+								<br>
+								<a href=""> Forget your password? </a>
 							</div>
 						</form>
 					</div>
