@@ -55,8 +55,8 @@
 	</nav>
 
 	<header >
-		<div class="row littl">
-			<div class="col-lg-8">	
+		<div class="row">
+			<div class="col-lg-7">	
 				<div class="row main">
 					<br>
 					<br>
@@ -65,15 +65,14 @@
 					<h2 style="color: black;">
 						Greeting from Everywhere.
 					</h2>	
-					
 				</div>				
 
 			</div>
 
-			<div class="col-lg-4">
+			<div class="col-lg-5">
 				<div class="row main">
 					<div class="main-login main-center">
-						<h1 class="title" style="color: black">Join now!</h1>
+						<h1 class="title" style="color: black; font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;">Join now!</h1>
 						<hr>
 						<form class="form-horizontal" method="post" action="#">
 
@@ -82,7 +81,7 @@
 								<div class="cols-sm-10">
 									<div class="input-group">
 										<span class="input-group-addon"><i class="fa fa-user fa" aria-hidden="true"></i></span>
-										<input type="text" class="form-control" name="name" id="name"  placeholder="Full Name"/>
+										<input type="text" class="form-control"  name="name" id="name"  placeholder="Full Name"/>
 									</div>
 								</div>
 							</div>
@@ -128,8 +127,8 @@
 							</div>
 
 							<div class="form-group ">
-								<button type="button" class="btn btn-primary  btn-block login-button">Register</button>
-								<button type="button" class="btn btn-mine btn-block login-button">Log In</button>
+								<button type="submit" class="btn btn-primary  btn-block login-button">Register</button>
+								<button type="button" class="btn btn-mine btn-block login-button" onclick="window.location.href='/login.php'">Log In</button>
 							</div>
 
 						</form>
@@ -142,7 +141,7 @@
 
 	</header>
 
-	<!--紅色框框-->
+	<!--Why Grusse-->
 	<section class="bg-primary" id="more">
 		<div class ="container">
 			<div class="row little_transparent">
@@ -163,34 +162,41 @@
 						And get others' support when needed.
 						
 						<footer> Regards<br>
-						- A old man once told me</footer>
-					</p>
-				</blockquote>
-			</div>
+							- A old man once told me</footer>
+						</p>
+					</blockquote>
+				</div>
 
+			</div>
 		</div>
-	</div>
-</section>
+	</section>
 
 
-<!--two sayings-->
-<section class="bg-dark thumbnails" id="cards">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-8 col-lg-offset-2 text-center"> 
-				<h1 class="section-heading">Postcards of the day</h1>
-				<hr class="dark">
-			</div>
-			<!--Green one-->
-			<div class="col-lg-6 little_transparent "> 
+	<!--PostCard-->
+	<section class="bg-dark thumbnails" id="cards">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-lg-offset-2 text-center"> 
+					<h1 class="section-heading">Postcards of the day</h1>
+					<hr class="dark">
+				</div>
+				<!--Green one-->
+				<div class="col-lg-6 little_transparent "> 
 
-				<img class="img-thumbnail" src="/img/BGI_NY.jpg">
-			</div>
-			<!--Blue one-->
-			<div class="col-lg-6 little_transparent" >
-				<p class="lead">
-					“When I was finally allowed out of bed, I still had to be in the cast for four more months, but one of the first things I did was hop out to the yard in front of our house with my father. It was there that we started my football dream together. </p>
-					<footer> - David Villa</footer>
+					<img class="img-thumbnail" src="/img/BGI_NY.jpg">
+				</div>
+				<!--Blue one-->
+				<div class="col-lg-6 little_transparent" >
+					<p class="lead">
+						So if you're out there I swear to be good to you<br>
+						But I'm done lookin', for my future someone<br>
+						Cause when the time is right
+						<br>
+						You'll be here, but for now
+						<br>
+						Dear no one, this is your love song
+					</p>
+					<footer>  </footer>
 				</div>
 			</div>
 		</div>
@@ -212,7 +218,7 @@
 					<br>
 					North Carolina State University<br>
 					<br>
-					#HackNC
+					#HackNC<br>
 				</p>
 			</div>
 			<div class="col-lg-4 col-lg-offset-2 text-center">
