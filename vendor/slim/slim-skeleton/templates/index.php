@@ -26,6 +26,15 @@
 	<link rel="stylesheet" type="text/css" href="/css/main.css">
 	<!-- Theme CSS -->
 	<link rel="stylesheet" href="/css/creative.css" >
+
+	<style type="text/css">
+		button .btn-mine :active{
+		background-color:#6f5d5d;
+	}
+
+	</style>
+	
+		
 </head>
 
 
@@ -128,7 +137,7 @@
 
 							<div class="form-group ">
 								<button type="submit" class="btn btn-primary  btn-block login-button">Register</button>
-								<button type="button" class="btn btn-mine btn-block login-button" onclick="window.location.href='/login.php'">Log In</button>
+								<button type="button" class="btn btn-mine btn-block" onclick="window.location.href='/login.php'">Log In</button>
 							</div>
 
 						</form>
